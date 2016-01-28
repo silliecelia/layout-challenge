@@ -13,7 +13,7 @@
 	float: left;
 	position: relative;
 	top: 70px;
-	left: 60px;
+	left: 70px;
 }
 
 .second {
@@ -87,7 +87,7 @@
 
 .eighth {
 	border: 1px solid black;
-	width: 670px;
+	width: 680px;
 	height: 200px;
 	margin-right: 20px;
 	margin-bottom: 20px;
@@ -109,7 +109,7 @@
 
 .tenth {
 	border: 1px solid black;
-	width: 150px;
+	width: 160px;
 	height: 360px;
 	margin-left: 10px;
 	margin-right: 20px;
@@ -159,7 +159,7 @@
 
 .fourteenth {
 	border: 1px solid black;
-	width: 150px;
+	width: 160px;
 	height: 100px;
 	margin-right: 10px;
 	margin-bottom: 20px;
