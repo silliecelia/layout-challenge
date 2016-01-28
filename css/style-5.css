@@ -5,6 +5,15 @@
 	margin: 20px;
   	background-color: #999;
   	box-sizing: border-box;
+  	float: left;
+}
+
+.nav {
+	display: inline-block;
+	float: left;
+	position: relative;
+	top: 70px;
+	left: 60px;
 }
 
 .second {
@@ -89,8 +98,8 @@
 
 .ninth {
 	border: 1px solid black;
-	width: 500px;
-	height: 300px;
+	width: 490px;
+	height: 360px;
 	margin-right: 20px;
 	margin-bottom: 20px;
   	float: left;
@@ -101,7 +110,8 @@
 .tenth {
 	border: 1px solid black;
 	width: 150px;
-	height: 300px;
+	height: 360px;
+	margin-left: 10px;
 	margin-right: 20px;
 	margin-bottom: 20px;
   	float: left;
@@ -109,11 +119,14 @@
   	box-sizing: border-box;
 }
 
+.bottom{
+	float: left;
+}
+
 .eleventh {
 	border: 1px solid black;
 	width: 150px;
 	height: 100px;
-	margin-left: 20px;
 	margin-right: 20px;
 	margin-bottom: 20px;
   	float: left;
@@ -137,7 +150,7 @@
 	border: 1px solid black;
 	width: 150px;
 	height: 100px;
-	margin-right: 20px;
+	margin-right: 30px;
 	margin-bottom: 20px;
   	float: left;
   	background-color: #999;
@@ -148,7 +161,7 @@
 	border: 1px solid black;
 	width: 150px;
 	height: 100px;
-	margin-right: 20px;
+	margin-right: 10px;
 	margin-bottom: 20px;
   	float: left;
   	background-color: #999;

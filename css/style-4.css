@@ -5,17 +5,20 @@
 	margin: 20px;
   	background-color: #999;
   	box-sizing: border-box;
+  	float: left;
 }
 
 .nav {
 	display: inline-block;
-	clear: both;
 	float: left;
+	position: relative;
+	top: 70px;
+	left: 98px;
 }
 
 .second {
   	border: 1px solid black;
-	width: 100px;
+	width: 120px;
 	height: 50px;
 	margin-bottom: 20px;
 	margin-left: 20px;
@@ -27,7 +30,7 @@
 
 .third {
   	border: 1px solid black;
-	width: 100px;
+	width: 120px;
 	height: 50px;
 	margin-bottom: 20px;
 	margin-right: 10px;
@@ -38,7 +41,7 @@
 
 .fourth {
   	border: 1px solid black;
-	width: 100px;
+	width: 120px;
 	height: 50px;
 	margin-bottom: 20px;
 	margin-right: 10px;
@@ -49,7 +52,7 @@
 
 .fifth {
   	border: 1px solid black;
-	width: 100px;
+	width: 120px;
 	height: 50px;
 	margin-bottom: 20px;
 	margin-right: 10px;
