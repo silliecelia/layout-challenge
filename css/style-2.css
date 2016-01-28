@@ -9,7 +9,7 @@
 
 .second {
   	border: 1px solid black;
-	width: 580px;
+	width: 150px;
 	height: 300px;
 	margin-bottom: 20px;
 	margin-left: 20px;
@@ -21,7 +21,7 @@
 
 .third {
   	border: 1px solid black;
-	width: 300px;
+	width: 560px;
 	height: 300px;
   	background-color: #999;
   	float: left;
@@ -29,6 +29,17 @@
 }
 
 .fourth {
+	border: 1px solid black;
+	width: 150px;
+	height: 300px;
+	margin-left: 20px;
+	margin-right: 20px;
+  	float: left;
+  	background-color: #999;
+  	box-sizing: border-box;
+}
+
+.fifth {
 	border: 1px solid black;
 	width: 900px;
 	height: 100px;

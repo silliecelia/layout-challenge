@@ -1,0 +1,169 @@
+.first {
+	border: 1px solid black;
+	width: 250px;
+	height: 150px;
+	margin: 20px;
+  	background-color: #999;
+  	box-sizing: border-box;
+}
+
+.second {
+  	border: 1px solid black;
+	width: 100px;
+	height: 50px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	margin-right: 10px;
+  	background-color: #999;
+  	float: left;
+  	box-sizing: border-box;
+}
+
+.third {
+  	border: 1px solid black;
+	width: 100px;
+	height: 50px;
+	margin-bottom: 20px;
+	margin-right: 10px;
+  	background-color: #999;
+  	float: left;
+  	box-sizing: border-box;
+}
+
+.fourth {
+  	border: 1px solid black;
+	width: 100px;
+	height: 50px;
+	margin-bottom: 20px;
+	margin-right: 10px;
+  	background-color: #999;
+  	float: left;
+  	box-sizing: border-box;
+}
+
+.fifth {
+  	border: 1px solid black;
+	width: 100px;
+	height: 50px;
+	margin-bottom: 20px;
+	margin-right: 10px;
+  	background-color: #999;
+  	float: left;
+  	box-sizing: border-box;
+}
+
+.sixth {
+  	border: 1px solid black;
+	width: 100px;
+	height: 50px;
+	margin-bottom: 20px;
+	margin-right: 10px;
+  	background-color: #999;
+  	float: left;
+  	box-sizing: border-box;
+}
+
+.seventh {
+	border: 1px solid black;
+	width: 200px;
+	height: 700px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+  	float: left;
+  	background-color: #999;
+  	box-sizing: border-box;
+  	clear: both;
+}
+
+.eighth {
+	border: 1px solid black;
+	width: 670px;
+	height: 200px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+  	float: left;
+  	background-color: #999;
+  	box-sizing: border-box;
+}
+
+.ninth {
+	border: 1px solid black;
+	width: 500px;
+	height: 300px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+  	float: left;
+  	background-color: #999;
+  	box-sizing: border-box;
+}
+
+.tenth {
+	border: 1px solid black;
+	width: 150px;
+	height: 300px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+  	float: left;
+  	background-color: #999;
+  	box-sizing: border-box;
+}
+
+.eleventh {
+	border: 1px solid black;
+	width: 150px;
+	height: 100px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+  	float: left;
+  	background-color: #999;
+  	box-sizing: border-box;
+  	clear: both;
+}
+
+.twelfth {
+	border: 1px solid black;
+	width: 150px;
+	height: 100px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+  	float: left;
+  	background-color: #999;
+  	box-sizing: border-box;
+}
+
+.thirteenth {
+	border: 1px solid black;
+	width: 150px;
+	height: 100px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+  	float: left;
+  	background-color: #999;
+  	box-sizing: border-box;
+}
+
+.fourteenth {
+	border: 1px solid black;
+	width: 150px;
+	height: 100px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+  	float: left;
+  	background-color: #999;
+  	box-sizing: border-box;
+}
+
+.fifteenth {
+	border: 1px solid black;
+	width: 900px;
+	height: 100px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+  	float: left;
+  	background-color: #999;
+  	box-sizing: border-box;
+  	clear: both;
+}
