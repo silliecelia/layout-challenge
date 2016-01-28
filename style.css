@@ -1,0 +1,29 @@
+.first {
+	border: 1px solid black;
+	width: 900px;
+	height: 100px;
+	margin: 20px;
+	color: #999;
+  	box-sizing: border-box;
+}
+
+.second {
+  	border: 1px solid black;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+	color: #999;
+  	box-sizing: border-box;
+  	float: left;
+}
+
+.third {
+  	border: 1px solid black;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+	color: #999;
+  	box-sizing: border-box;
+  	clear: both;
+  	float: left;
+}
