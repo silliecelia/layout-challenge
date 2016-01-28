@@ -1,7 +1,42 @@
 .first {
-    border: 1px solid black;
-    width: 900px;
-    height: 100px;
-    margin: 20px;
-    color: #999;
+	border: 1px solid black;
+	width: 900px;
+	height: 100px;
+	margin: 20px;
+  	background-color: #999;
+  	box-sizing: border-box;
+}
+
+.second {
+  	border: 1px solid black;
+	width: 500px;
+	height: 100px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+  	background-color: #999;
+  	box-sizing: border-box;
+  	clear: both;
+  	float: left;
+}
+
+.third {
+  	border: 1px solid black;
+	width: 340px;
+	height: 100px;
+	margin-bottom: 20px;
+  	background-color: #999;
+  	box-sizing: border-box;
+  	clear: both;
+  	float: left;
+}
+
+.fourth {
+	border: 1px solid black;
+	width: 900px;
+	height: 100px;
+	margin: 20px;
+  	clear: both;
+  	float: left;
+  	background-color: #999;
+  	box-sizing: border-box;
 }
